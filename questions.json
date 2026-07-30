@@ -1,0 +1,597 @@
+
+{
+    "easy": [
+        {
+            "question": "Which star is at the center of the Solar System?",
+            "options": {
+                "A": "Sirius",
+                "B": "Sun",
+                "C": "Polaris"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": {
+                "A": "Mars",
+                "B": "Venus",
+                "C": "Saturn"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which is the largest planet in the Solar System?",
+            "options": {
+                "A": "Earth",
+                "B": "Saturn",
+                "C": "Jupiter"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What is the natural satellite of Earth called?",
+            "options": {
+                "A": "Europa",
+                "B": "Moon",
+                "C": "Titan"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet is famous for its rings?",
+            "options": {
+                "A": "Mercury",
+                "B": "Saturn",
+                "C": "Mars"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet is closest to the Sun?",
+            "options": {
+                "A": "Mercury",
+                "B": "Earth",
+                "C": "Neptune"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The Sun is:",
+            "options": {
+                "A": "A planet",
+                "B": "A star",
+                "C": "A comet"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet is known for having abundant liquid water on its surface?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Jupiter"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is the name of our galaxy?",
+            "options": {
+                "A": "Andromeda",
+                "B": "Milky Way",
+                "C": "Orion"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What do astronauts use to breathe in space?",
+            "options": {
+               "A": "Diving mask",
+               "B": "Helmet with oxygen system",
+               "C": "Special glasses"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which celestial body lights up Earth during the day?",
+            "options": {
+                "A": "Moon",
+                "B": "Mars",
+                "C": "Sun"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which planet is a gas giant?",
+            "options": {
+               "A": "Jupiter",
+               "B": "Mars",
+               "C": "Mercury"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is a comet?",
+            "options": {
+                "A": "A dead star",
+                "B": "A body mainly made of ice and dust",
+                "C": "A small planet"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet has the hottest atmosphere in the Solar System?",
+            "options": {
+                "A": "Venus",
+                "B": "Neptune",
+                "C": "Saturn"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which instrument is used to observe stars?",
+            "options": {
+                "A": "Microscope",
+                "B": "Telescope",
+                "C": "Underwater binoculars"
+            },
+            "answer": "B"
+        }
+    ],
+    "medium": [
+        {
+            "question": "Which planet currently has the largest number of known moons?",
+            "options": {
+                "A": "Saturn",
+                "B": "Earth",
+                "C": "Venus"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is the closest star to Earth after the Sun?",
+            "options": {
+                "A": "Sirius",
+                "B": "Proxima Centauri",
+                "C": "Betelgeuse"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What is a black hole?",
+            "options": {
+                "A": "An invisible planet",
+                "B": "A region of space with extremely strong gravity",
+                "C": "A blue star"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet rotates almost on its side?",
+            "options": {
+                "A": "Mars",
+                "B": "Uranus",
+                "C": "Mercury"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What separates the rocky planets from the gas giants in the Solar System?",
+            "options": {
+                "A": "Asteroid belt",
+                "B": "Moon",
+                "C": "Sun"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which planet has the largest known volcano in the Solar System?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Neptune"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What is the explosion of a massive star called?",
+            "options": {
+                "A": "Eclipse",
+                "B": "Supernova",
+                "C": "Nebula"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet has the fastest winds in the Solar System?",
+            "options": {
+                "A": "Neptune",
+                "B": "Earth",
+                "C": "Mercury"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is a nebula?",
+            "options": {
+                "A": "A group of planets",
+                "B": "A giant cloud of gas and dust in space",
+                "C": "A small black hole"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which mission landed the first humans on the Moon?",
+            "options": {
+                "A": "Apollo 11",
+                "B": "Voyager 1",
+                "C": "Artemis 1"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Who was the first human to walk on the Moon?",
+            "options": {
+                "A": "Yuri Gagarin",
+                "B": "Buzz Aldrin",
+                "C": "Neil Armstrong"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What is a light-year?",
+            "options": {
+                "A": "A space travel time unit",
+                "B": "The distance light travels in one year",
+                "C": "The speed of the Sun"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet has the Great Red Spot?",
+            "options": {
+                "A": "Saturn",
+                "B": "Jupiter",
+                "C": "Mars"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which space telescope was launched to complement and expand Hubble's observations?",
+            "options": {
+                "A": "Kepler",
+                "B": "James Webb",
+                "C": "Sputnik"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What is the main element used as fuel in nuclear fusion in stars like the Sun?",
+            "options": {
+                "A": "Iron",
+                "B": "Hydrogen",
+                "C": "Rock"
+            },
+            "answer": "B"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What is the name of the boundary around a black hole where nothing can escape?",
+            "options": {
+                "A": "Event horizon",
+                "B": "Gravitational line",
+                "C": "Dark zone"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which planet has the longest day in the Solar System?",
+            "options": {
+                "A": "Venus",
+                "B": "Mars",
+                "C": "Jupiter"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What type of galaxy is the Milky Way?",
+            "options": {
+                "A": "Elliptical",
+                "B": "Barred spiral",
+                "C": "Irregular"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which element is mainly produced by nuclear fusion in young stars like the Sun?",
+            "options": {
+                "A": "Helium",
+                "B": "Carbon",
+                "C": "Oxygen"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which force is mainly responsible for the formation of stars?",
+            "options": {
+                "A": "Magnetism",
+                "B": "Gravity",
+                "C": "Nuclear energy"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What are exoplanets?",
+            "options": {
+                "A": "Planets outside the Solar System",
+                "B": "Giant moons",
+                "C": "Bright asteroids"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which planet has the tallest known mountain in the Solar System?",
+            "options": {
+                "A": "Mars",
+                "B": "Earth",
+                "C": "Saturn"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which space probe was the first to reach interstellar space?",
+            "options": {
+                "A": "Voyager 1",
+                "B": "Cassini",
+                "C": "Apollo 13"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What happens during a solar eclipse?",
+            "options": {
+                "A": "The Moon partially or totally blocks the Sun's light",
+                "B": "Mars covers the Moon",
+                "C": "The Sun disappears from space"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which scientist is most associated with defending the heliocentric model?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Galileo Galilei",
+                "C": "Nicolaus Copernicus"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which planet has the most extensive and visible ring system?",
+            "options": {
+                "A": "Saturn",
+                "B": "Uranus",
+                "C": "Neptune"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which red supergiant star is known for major brightness variations?",
+            "options": {
+                "A": "Betelgeuse",
+                "B": "Sirius",
+                "C": "Vega"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is the early stage of a star's formation inside a nebula called?",
+            "options": {
+                "A": "Protostar",
+                "B": "Quasar",
+                "C": "Pulsar"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What phenomenon makes stars appear to twinkle when viewed from Earth?",
+            "options": {
+                "A": "Gravity",
+                "B": "Turbulence in Earth's atmosphere",
+                "C": "Solar magnetic field"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which planet has the strongest gravity among the planets in the Solar System?",
+            "options": {
+                "A": "Saturn",
+                "B": "Jupiter",
+                "C": "Earth"
+            },
+            "answer": "B"
+        }
+    ],
+    "legendary": [
+    {
+        "question": "What is the approximate value of the Chandrasekhar limit?",
+        "options": {
+            "A": "1.4 solar masses",
+            "B": "3.2 solar masses",
+            "C": "0.5 solar masses"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which hypothetical particle is a leading candidate to explain dark matter?",
+        "options": {
+            "A": "Neutrino",
+            "B": "WIMP (Weakly Interacting Massive Particle)",
+            "C": "Photon"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the region around a rotating black hole where no object can remain stationary called?",
+        "options": {
+            "A": "Ergosphere",
+            "B": "Photon sphere",
+            "C": "Accretion disk"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which equation describes the internal structure of a star in hydrostatic equilibrium?",
+        "options": {
+            "A": "Schwarzschild equation",
+            "B": "Lane-Emden equation",
+            "C": "Drake equation"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the point of theoretically infinite density at a black hole's center called?",
+        "options": {
+            "A": "Event horizon",
+            "B": "Singularity",
+            "C": "Core nucleus"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which parameter describes the current rate of expansion of the universe?",
+        "options": {
+            "A": "Hubble constant",
+            "B": "Planck constant",
+            "C": "Boltzmann constant"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which type of supernova is used as a 'standard candle' for measuring cosmic distances?",
+        "options": {
+            "A": "Type II",
+            "B": "Type Ia",
+            "C": "Type Ib"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the theorized period of extremely rapid expansion just after the Big Bang called?",
+        "options": {
+            "A": "Inflation",
+            "B": "Recombination",
+            "C": "Reionization"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the shift in light wavelength caused by escaping a strong gravitational field called?",
+        "options": {
+            "A": "Doppler shift",
+            "B": "Gravitational redshift",
+            "C": "Blueshift"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What mainly distinguishes hypothetical Population III stars from Population I stars?",
+        "options": {
+            "A": "Population III stars have almost no heavy elements (metals)",
+            "B": "Population I stars contain no hydrogen",
+            "C": "They differ only in size"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What are the tiny temperature variations in the cosmic microwave background called?",
+        "options": {
+            "A": "Anisotropies",
+            "B": "Isotropes",
+            "C": "Baryons"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which project captured the first-ever image of a black hole's shadow (M87*)?",
+        "options": {
+            "A": "Event Horizon Telescope",
+            "B": "Very Large Array",
+            "C": "Arecibo Observatory"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the formation of light elements minutes after the Big Bang called?",
+        "options": {
+            "A": "Big Bang nucleosynthesis",
+            "B": "Fusion cascade",
+            "C": "Photodisintegration"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is a magnetar?",
+        "options": {
+            "A": "A neutron star with an extremely powerful magnetic field",
+            "B": "A rare type of black hole",
+            "C": "A fast-spinning white dwarf"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which hypothetical particle is thought to mediate gravity at the quantum level?",
+        "options": {
+            "A": "Graviton",
+            "B": "Gluon",
+            "C": "W boson"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the Oort Cloud believed to be?",
+        "options": {
+            "A": "A ring of asteroids near Mars",
+            "B": "A spherical shell of icy bodies surrounding the Solar System",
+            "C": "A dust belt around the Sun"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which exoplanet detection method looks for periodic dimming of a star's light?",
+        "options": {
+            "A": "Radial velocity",
+            "B": "Transit method",
+            "C": "Direct imaging"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "In the Kerr solution, what does the parameter describing a black hole's rotation represent?",
+        "options": {
+            "A": "Spin parameter",
+            "B": "Density factor",
+            "C": "Mass ratio"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which paradox concerns whether information is lost when matter falls into a black hole?",
+        "options": {
+            "A": "Fermi paradox",
+            "B": "Information paradox",
+            "C": "Olbers' paradox"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "According to the Lambda-CDM model, what is the estimated age of the universe?",
+        "options": {
+            "A": "About 4.6 billion years",
+            "B": "About 13.8 billion years",
+            "C": "About 20 billion years"
+        },
+        "answer": "B"
+    }
+]
+
+}
